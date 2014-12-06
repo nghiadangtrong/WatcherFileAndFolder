@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Service", "Test_Service\Test_Service.csproj", "{E24E2ECD-6A4C-4F0D-9945-2154125C1621}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TheoDoi", "TheoDoi\TheoDoi.vdproj", "{C8F4728C-3A57-49F0-9918-BE1AFA1AB76E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Test_TheoDoiFile", "Test_TheoDoiFile\Test_TheoDoiFile.vdproj", "{C880BFAB-997C-4130-91DD-B7F68E5F82C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E24E2ECD-6A4C-4F0D-9945-2154125C1621}.Debug|x86.ActiveCfg = Debug|x86
+		{E24E2ECD-6A4C-4F0D-9945-2154125C1621}.Debug|x86.Build.0 = Debug|x86
+		{E24E2ECD-6A4C-4F0D-9945-2154125C1621}.Release|x86.ActiveCfg = Release|x86
+		{E24E2ECD-6A4C-4F0D-9945-2154125C1621}.Release|x86.Build.0 = Release|x86
+		{C8F4728C-3A57-49F0-9918-BE1AFA1AB76E}.Debug|x86.ActiveCfg = Debug
+		{C8F4728C-3A57-49F0-9918-BE1AFA1AB76E}.Release|x86.ActiveCfg = Release
+		{C880BFAB-997C-4130-91DD-B7F68E5F82C7}.Debug|x86.ActiveCfg = Debug
+		{C880BFAB-997C-4130-91DD-B7F68E5F82C7}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

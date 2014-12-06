@@ -1,0 +1,6 @@
+File Congfig Khong ton tai!File Config ton taiFile Config ton taiFile Config ton taiBat dau dang ky Event viewerFile Config ton taiBat dau dang ky Event viewerDang ky thanh congNGHIA-DANG-TRON\NGHIA-DANG-TRONGFile Config ton taiBat dau dang ky Event viewerDang ky thanh congNGHIA-DANG-TRONGFile Config ton taiBat dau dang ky Event viewerDang ky thanh congFile Config ton taiBat dau dang ky Event viewerDang ky thanh congNGHIA-DANG-TRONGFile Config ton taiBat dau dang ky Event viewerDang ky thanh congFile Config ton taiBat dau dang ky Event viewerDang ky thanh congFile Config ton tai
+Bat dau dang ky Event viewer
+Dang ky thanh cong
+NGHIA-DANG-TRONG
+C:\Windows\system32
+C:\Users\NGHIA-DANG-TRONG

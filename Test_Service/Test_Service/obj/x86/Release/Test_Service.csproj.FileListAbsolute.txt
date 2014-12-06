@@ -1,0 +1,8 @@
+C:\Users\NGHIA-DANG-TRONG\Documents\Visual Studio 2010\Projects\Test_Service\Test_Service\bin\Release\Test_Service.exe
+C:\Users\NGHIA-DANG-TRONG\Documents\Visual Studio 2010\Projects\Test_Service\Test_Service\bin\Release\Test_Service.pdb
+C:\Users\NGHIA-DANG-TRONG\Documents\Visual Studio 2010\Projects\Test_Service\Test_Service\obj\x86\Release\Test_Service.ProjectInstaller.resources
+C:\Users\NGHIA-DANG-TRONG\Documents\Visual Studio 2010\Projects\Test_Service\Test_Service\obj\x86\Release\Test_Service.Service1.resources
+C:\Users\NGHIA-DANG-TRONG\Documents\Visual Studio 2010\Projects\Test_Service\Test_Service\obj\x86\Release\Test_Service.csproj.GenerateResource.Cache
+C:\Users\NGHIA-DANG-TRONG\Documents\Visual Studio 2010\Projects\Test_Service\Test_Service\obj\x86\Release\Test_Service.exe
+C:\Users\NGHIA-DANG-TRONG\Documents\Visual Studio 2010\Projects\Test_Service\Test_Service\obj\x86\Release\Test_Service.pdb
+C:\Users\NGHIA-DANG-TRONG\Documents\Visual Studio 2010\Projects\Test_Service\Test_Service\obj\x86\Release\Test_Service.csprojResolveAssemblyReference.cache

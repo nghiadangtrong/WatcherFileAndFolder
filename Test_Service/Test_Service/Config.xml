@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Test_Service>
+  <OUT>
+    <EVENTLOG enable="true">
+      Theo doi
+    </EVENTLOG>
+  </OUT>
+</Test_Service>
